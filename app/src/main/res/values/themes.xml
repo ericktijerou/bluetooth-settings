@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.BluetoothSettings" parent="@style/Theme.Leanback" />
+</resources>

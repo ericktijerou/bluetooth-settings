@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grayDisabled">#4a4f51</color>
+    <color name="colorBackground">#101619</color>
+    <color name="colorRadioGroup">#111111</color>
+</resources>

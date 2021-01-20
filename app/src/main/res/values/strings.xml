@@ -1,0 +1,9 @@
+<resources>
+    <string name="two_opts_title">Bluetooth</string>
+    <string name="two_opts_desc">Please update your configuration</string>
+    <string name="two_opts_breadcrumb">Settings</string>
+    <string name="app_name">Bluetooth Settings</string>
+    <string name="on">Fully discoverable and pairable</string>
+    <string name="off">Completely disable Bluetooth</string>
+    <string name="no_discoverable">Limit to devices that are already paired</string>
+</resources>
